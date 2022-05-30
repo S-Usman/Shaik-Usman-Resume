@@ -1,0 +1,38 @@
+.Img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    position: relative;top: 20px;
+}
+.div{
+    text-align: right;
+    position: relative;bottom: 230px;
+}
+.Contact{
+    position: relative;right: 80px;
+}
+.Address{
+    position: relative;right: 60px;
+}
+hr{
+    position: relative;bottom: 120px;
+}
+.conicon{
+    position: relative;top: 2px ;
+    position: relative;right: 2px;
+}
+.LinkedIn{
+    position: relative;right: 81px;
+}
+.linkicon{
+    position: relative;right: 3px;
+}
+.Github{
+    position: relative;right: 124px;
+}
+.giticon{
+    position: relative;right: 2px;
+}
+.summary{
+    position: relative;bottom: 100px;
+}
