@@ -1,3 +1,6 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .Img{
     border-radius: 50%;
     height: 150px;
@@ -12,7 +15,10 @@
     position: relative;right: 80px;
 }
 .Address{
-    position: relative;right: 60px;
+    position: relative;right: 70px;
+}
+.Email{
+    position: relative;right: 10px;
 }
 hr{
     position: relative;bottom: 120px;
@@ -22,16 +28,18 @@ hr{
     position: relative;right: 2px;
 }
 .LinkedIn{
-    position: relative;right: 81px;
+    position: relative;right: 95px;
 }
 .linkicon{
-    position: relative;right: 3px;
+    position: relative;right: 4px;
+    justify-content: space-between;
+
 }
 .Github{
-    position: relative;right: 124px;
+    position: relative;right: 134px;
 }
 .giticon{
-    position: relative;right: 2px;
+    position: relative;right: 6px;
 }
 .summary{
     position: relative;bottom: 100px;
